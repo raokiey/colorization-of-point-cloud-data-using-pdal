@@ -14,5 +14,4 @@ Google Colaboratoryにて動作確認をしています。
 
 
 ## ライセンスについて  
-- 09MD0512_colorized.copc.laz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - ソースコード（[ノートブック](./pdal_colorizing_points_example.ipynb)）: [MIT](https://opensource.org/license/mit/)
