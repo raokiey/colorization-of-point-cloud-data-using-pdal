@@ -1,8 +1,6 @@
 # PDALを用いた3次元点群データの着色方法
 [FOSS4G Advent Calendar 2024の19日目の記事](https://qiita.com/ra0kley/items/ce7d0e595651b7760cf7)の補足用のリポジトリです。  
 上の記事では、PDALを用いた3次元点群データの着色方法について、解説しています。  
-着色した3次元点群データのサンプルは、[こちら](https://viewer.copc.io/?copc=https://raokiey.github.io/colorization-of-point-cloud-data-using-pdal/09MD0512_colorized.copc.laz)よりCOPC Viewerで表示することができます。  
-（ドラッグで移動、Ctrlを押しながらドラッグで回転できます）
 
 
 ## Notebook  
